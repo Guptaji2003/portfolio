@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ecom/static/css/main.629457d8.css",
+    "main.js": "/ecom/static/js/main.9fb1e4f4.js",
+    "static/js/453.419a5d54.chunk.js": "/ecom/static/js/453.419a5d54.chunk.js",
+    "static/media/hero.jpg": "/ecom/static/media/hero.f13ad3903df0828a4f92.jpg",
+    "static/media/about.jpeg": "/ecom/static/media/about.5d30604748c434257232.jpeg",
+    "static/media/Screenshot 2024-11-30 183834.png": "/ecom/static/media/Screenshot 2024-11-30 183834.0547a071f128783ab5fc.png",
+    "static/media/project2.png": "/ecom/static/media/project2.3cef5d0a6aff05d49f18.png",
+    "static/media/Pulkit gupta_20241006_173206_0000 (1).pdf": "/ecom/static/media/Pulkit gupta_20241006_173206_0000 (1).3e240a4c8f0fbf79e9db.pdf",
+    "static/media/food.png": "/ecom/static/media/food.d689f1d2d92fd5b26498.png",
+    "index.html": "/ecom/index.html",
+    "main.629457d8.css.map": "/ecom/static/css/main.629457d8.css.map",
+    "main.9fb1e4f4.js.map": "/ecom/static/js/main.9fb1e4f4.js.map",
+    "453.419a5d54.chunk.js.map": "/ecom/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.629457d8.css",
+    "static/js/main.9fb1e4f4.js"
+  ]
+}
