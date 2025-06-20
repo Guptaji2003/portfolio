@@ -9,14 +9,14 @@ import Photo from './pages/Photo'
 const App = () => {
   return (
     <>
-      {/* <BrowserRouter>
+      <BrowserRouter>
         <Navbar />
         <Routes>
-          <Route path="/" element={<Hero />} />
+          <Route exact path="/" element={<Hero />} />
         </Routes>
         <Footer />
-      </BrowserRouter> */}
-      <Photo/>
+      </BrowserRouter>
+      {/* <Photo/> */}
 
     </>
   )
