@@ -1,5 +1,5 @@
 import React from 'react'
-import pdf from '../assets/Pulkit gupta_20241006_173206_0000 (1).pdf'
+import pdf from '../assets/Pulkit_Gupta_Resume .pdf'
 const Navbar = () => {
   return (
     <>
